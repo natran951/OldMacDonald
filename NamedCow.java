@@ -1,4 +1,3 @@
-class NamedCow
-{
+class NamedCow {
 
 }
